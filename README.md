@@ -1,7 +1,7 @@
 # Donator.ai
 ![Donator Simulation](https://github.com/Partnership-on-Generative-AI/Donator/blob/main/Donator_Simulation.png)
 
-Welcome to **Donator.ai**, a startup project launched by former United Nations and DFID staff and others in response to the USAID aid freeze. 
+Welcome to **Donator.ai**, a startup project launched by former United Nations and USAID staff and others in response to the USAID aid freeze. 
 
 ## Development
 
