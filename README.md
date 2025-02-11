@@ -6,3 +6,9 @@ Welcome to **Donator.ai**, a startup project launched by former United Nations a
 ## Development
 
 To get started, the project is being developed through the [Partnership on Generative AI for Humanitarian Applications](https://github.com/Partnership-on-Generative-AI/About/blob/main/README.md) which links humanitarian organizations and tech companies interested in uses of large language models for good. Members help one another scope projects, deploy models, troubleshoot code and carry out basic testing.
+
+The project is principally interested in tackling how a next-generation humanitarian crowdfunding platform built for the AI age could look, work and be set up fast in response to the humanitarian community's sudden funding crisis.
+
+## Get Involved
+
+We're recruiting volunteers to work on the project while we raise VC funding enebling us to move faster. To get in touch, email: team (at) humanitarianai.org
